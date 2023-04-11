@@ -2,7 +2,7 @@
 build
 MANIFEST
 .idea
-venv
+venv/
 .env
-
+archived_attempts/.env
 .ignore_test
